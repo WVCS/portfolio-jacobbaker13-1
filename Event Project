@@ -8,7 +8,7 @@
 </head>
 <body>
   
-   <ul>
+  <ul>
   <li><a href="newpage.html"> Home </a></li>
   <li><a href="newpage.html"> History </a></li>
   <li><a href="newpage.html"> Schedule </a></li>
@@ -17,54 +17,151 @@
   
   <div align="center">
    <div class="sticky">
-    <p>  The Los Angeles Rams History </p>
+    <p>  The Los Angeles Rams Schedule </p>
     </div>
     </div> 
   
-  <p><pre><center>
-One of the National Football League's oldest franchises, the Rams began their football life in Cleveland in 1937.
-They did no better than a .500 mark once during their first six seasons. 
-They then disbanded for a year in 1943 because of the manpower shortages of the World War II era. 
-When they finally did record a winning season, they hit the jackpot with a 15-14 victory over the Washington Redskins in the NFL championship game.
-A sensational rookie quarterback from UCLA, Bob Waterfield, was the league's Player of the Year.
-That championship game proved to be the last the Rams would ever play in Cleveland. Dan Reeves,
-a shrewd businessman and a master innovator who had bought the team in 1941, decided to move the Rams to Los Angeles for the 1946 season. 
-He then signed Kenny Washington and Woody Strode to make them the first two African-American athletes with an NFL contract since 1932.
-Reeves also instituted the famed
-"Free Football for Kids" program, providing the groundwork for today's successful TV policies, and became the first to employ a full-time scouting staff.
-In their first four seasons on the West Coast, the Rams had to wage a costly head-to-head battle with the intra-city Dons of the All-America Football Conference.
-Reeves and the Rams suffered mammoth financial losses.
-But the AAFC folded after the 1949 season just as the Rams were embarking on a string of outstanding seasons on the field.
-They won four NFL Western division championships in seven years and captured their second NFL title in 1951.
-With Waterfield and Norm Van Brocklin connecting regularly on long bombs to Elroy "Crazylegs" Hirsch and Tom Fears, the Rams played an exciting, glamorous brand of football.
-The effect at the gate was outstanding. 
-Topped by a crowd of 102,368 for a San Francisco 49ers game in 1957, turnouts in the Coliseum topped 80,000 on 22 occasions during the Rams' first 20 years in Los Angeles.
-The heady successes of the early 1950s produced one final divisional championship under a rookie coach, Sid Gillman, in 1955.
-Then the Rams slipped into the second division, not to return to championship contention again until 1967.
-By that time, George Allen had taken over the coaching reins.
-Allen fashioned the highly-publicized "Fearsome Foursome" line that included future Hall of Famers Merlin Olsen and Deacon Jones.
-Allen's five-year record was 49-19-4,
-best ever for a Rams coach. The Rams continued their winning ways through the 1970s. They won five straight NFC Western division championships from 1973 to 1977
-with Chuck Knox at the helm and then two more divisional titles after Ray Malavasi replaced Knox in 1978. The 1979 Rams won the NFC championship before losing to Pittsburgh 31-19
-in Super Bowl XIV.
-In 1972, the Baltimore Colts' Carroll Rosenbloom traded franchises with Bob Irsay and took control of the Rams. Rosenbloom died in 1979 and his widow Georgia replaced him as owner/president.
-In 1995, the Rams moved to St. Louis where they played in the Edward Jones Dome. In 1997, the Rams hired former Philadelphia Eagles coach Dick Vermeil.
-Two years later, in 1999, the Rams were transformed into Super Bowl champions. Guided by quarterback Kurt Warner and running back Marshall Faulk,
-the team beat Tennessee 23-16 in a thrilling Super Bowl XXXIV. Following the victory, Vermeil retired and was replaced by Mike Martz, the team's offensive coordinator.
-In 2011, the Rams named Jeff Fisher as their head coach. In 2016, the Rams moved to Los Angeles where they play in the Los Angeles Coliseum.
-
-    </pre>
-  
-     <div class="mlb"> <img src="https://img.huffingtonpost.com/asset/58e51b191500002000c7e182.jpeg?ops=1910_1000"class="img1"> </div>
+   <table>
+    <tr>
+      <td> Date </td>
+      <td> Week </td>
+      <td> Opponent </td>
+    </tr>
+ <tr>   
+    <td>Sep 13</td>
+    
+    <td>1</td>
+    
+    <td> Cowboys</td> 
+    </tr>
+    <tr>   
+    <td>Sep 20</td>
+    
+    <td>2</td>
+    
+    <td>Eagles</td> 
+    </tr>
+    <tr>   
+    <td>Sep 27</td>
+    
+    <td>3</td>
+    
+    <td>Bills</td> 
+    </tr>
+    <tr>   
+    <td>Oct 4</td>
+    
+    <td>4</td>
+    
+    <td>Giants</td> 
+    </tr>
+    <tr>   
+    <td>Oct 11</td>
+    
+    <td>5</td>
+    
+    <td>Redskins</td> 
+    </tr>
+    
+    <tr>   
+    <td>Oct 18</td>
+    
+    <td>6</td>
+    
+    <td>49ers</td> 
+    </tr>
+    
+   <tr>   
+    <td>Oct 26</td>
+    
+    <td>7</td>
+    
+    <td>Bears</td> 
+    </tr>
+    
+    <tr>   
+    <td>Nov 1</td>
+    
+    <td>8</td>
+    
+    <td>Dolphins</td> 
+    </tr>
+    
+    <tr>   
+    <td>Nov 15</td>
+    
+    <td>9</td>
+    
+    <td>Seahawks</td> 
+    </tr>
+    
+    <tr>   
+    <td>Nov 23</td>
+    
+    <td>10</td>
+    
+    <td>Buccaneers</td> 
+    </tr>
+    
+    <tr>   
+    <td>Nov 29</td>
+    
+    <td>11</td>
+    
+    <td>49ers</td> 
+    </tr>
      
-      <div class="mlb"> <img src="https://i1.wp.com/scng-dash.digitalfirstmedia.com/wp-content/uploads/2017/08/ocr-l-focus-stadium-inside.png"class="img2"> </div>
+      <tr>   
+    <td>Dec 6</td>
+    
+    <td>12</td>
+    
+    <td>Cardinals</td> 
+    </tr>
+     
+      <tr>   
+    <td>Dec 10</td>
+    
+    <td>13</td>
+    
+    <td>Patriots</td> 
+    </tr>
+     
+      <tr>   
+    <td>Dec 20</td>
+    
+    <td>14</td>
+    
+    <td>Jets</td> 
+    </tr>
+     
+      <tr>   
+    <td>Dec 27</td>
+    
+    <td>15</td>
+    
+    <td>Seahawks</td> 
+    </tr>
+     
+      <tr>   
+    <td>Jan 3</td>
+    
+    <td>16</td>
+    
+    <td>Cardinals</td> 
+    </tr>
+     
+    
+    </tr>
+     
+     
+    
+    </table>
   
   
+   <div class="mlb"> <img src="https://cdn.vox-cdn.com/thumbor/HHH97G-8pjLFjOTV9G03RtBoAqY=/0x0:2062x3000/1200x0/filters:focal(0x0:2062x3000)/cdn.vox-cdn.com/uploads/chorus_asset/file/11414487/donald_tall_inline.jpg"class="img1"> </div>
   
-  
-  
-  
-  
+  <div class="mlb"> <img src="https://si.wsj.net/public/resources/images/BN-RI287_2QGTN_OR_20161221172234.jpg?width=620&height=474"class="img2"> </div>
   
   
   
@@ -72,8 +169,8 @@ In 2011, the Rams named Jeff Fisher as their head coach. In 2016, the Rams moved
   
 </body>
 
-<style>
 
+<style>
 
 ul{
   list-style-type: none;
@@ -102,16 +199,42 @@ div.sticky {
   width: 500px
 }
 
+table{
+  width: 50%;
+ font-family: Times New Roman;
+ border-collapse: collapse;
+ top: 150px;
+ right: 700px;
+ position: absolute;
+ height: 500px;
+ Width: 600px;
+}
+
+td {
+  border: 2px solid #000;
+  text-allign: left;
+  padding: 2px;
+}
+
 .img1{
+  position: absolute;
   height: 500px;
-  width: 1000px;
+  width: 350px;
+  Left: 50px;
 }
 
 .img2{
+  position: absolute;
   height: 500px;
-  width: 1000px;
+  width: 600px;
+  Right: 50px;
 }
 
+
 </style>
+
+
+
+
 
 </html>
